@@ -6,6 +6,8 @@ https://bbs.3dmgame.com/thread-4176597-1-1.html
 
 https://github.com/fengmao31/mod-for-wargame-red-dragon
 
+https://wargame.fandom.com/wiki/Wargame_Wiki
+
 # 修改翻译名称
 
 https://forums.eugensystems.com/viewtopic.php?t=45689
