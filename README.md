@@ -44,7 +44,9 @@ https://tieba.baidu.com/p/6209519622
 
 这是因为跨红蓝阵营，在左边栏里搜索**TShowRoomDeckSeriqlizer**，找到后双击**pactunitids**这一项。参考列表里的单位新增一个同等类型的条目，编号顺延一个编号。
 
-单位旗帜**texture mother country for interface**不用修改，改了军械库会崩溃。
+单位旗帜**texture mother country for interface**不用修改，改了军械库会崩溃。这是因为不能简单的选择国家缩写。（比如在有些版本POL其实是美国国旗，而苏联旗根本不是缩写）
+
+（单位旗帜未验证，参见tutorial中《请问吧里有谁知道怎么修改单位国籍？【战争游戏红龙吧】_百度贴吧》，我这里F14从美国改成中国后显示挪威旗帜，旗帜代码未修改）
 
 方法二，把一个已有单位全面替换成另一个单位。比如**J7**变成**F16**
 
