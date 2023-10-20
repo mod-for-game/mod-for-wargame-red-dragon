@@ -1,4 +1,4 @@
-# mod使用
+# MOD使用
 根据下面的教程切换游戏版本为V18
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1918729694
