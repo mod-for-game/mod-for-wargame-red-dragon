@@ -1,3 +1,12 @@
+# mod使用
+根据下面的教程切换游戏版本为V18
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1918729694
+
+游戏版本下载代码
+
+download_depot 251060 251062 5035051282686813528
+
 # 软件基本使用
 
 https://bbs.3dmgame.com/thread-4176597-1-1.html
